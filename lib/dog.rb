@@ -1,6 +1,7 @@
 # Your code goes here!
 class Dog
 
-def name=("Lassie")
+def name=()
+
 end
 end
