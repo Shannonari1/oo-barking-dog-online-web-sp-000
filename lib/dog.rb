@@ -14,6 +14,7 @@ class Dog
 end
 
 lassie = Dog.new
-lassie.name = "Lassie"
 lassie.bark
+lassie.name = "Lassie"
+
 puts lassie.name
