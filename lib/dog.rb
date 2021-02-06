@@ -4,10 +4,15 @@ class Dog
   puts "Woof!"
    end
 
-   lynn = Dog.new
-   lynn.name = "Lynn"
-   lynn.name
-   lynn.bark
+   fido = Dog.new
+fido.name = "Fido"
+
+fido.name
+# => "Fido"
+
+fido.bark
+woof!
+# => nil
 
 
 end
