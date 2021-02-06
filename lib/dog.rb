@@ -5,3 +5,7 @@ class Dog
 
    end
 end
+
+lynn = Dog.new
+lynn.name = "Lynn"
+lynn.bark
